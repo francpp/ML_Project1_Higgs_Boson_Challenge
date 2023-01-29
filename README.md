@@ -2,8 +2,7 @@
 ***
 Our repository for Higgs Boson Challenge 2022. Scores based on AICrowd test.csv. Final score: 0.837.
 
-Link for train.csv and test.csv: [[](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs)
-](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs)
+Link for train.csv and test.csv: [https://www.aicrowd.com/challenges/epfl-machine-learning-higgs]
 
 ## Team
 * Giovanni La Cagnina
